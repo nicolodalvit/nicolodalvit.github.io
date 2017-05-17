@@ -12,4 +12,5 @@ is_contact: true
 # Mailing Address
 
 28 Rue des Saintes Peres,
+
 75007, Paris
