@@ -9,7 +9,7 @@ is_contact: true
 
 ---
 
-# Mailing Address
+## Mailing Address
 
 28 Rue des Saintes Peres,
 
