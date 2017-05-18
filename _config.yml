@@ -2,6 +2,8 @@ title: Nicolò Dalvit
 url: "https://nicolodalvit.github.io"
 baseurl: ""
 
+github_username:  nicolodalvit
+
 markdown: kramdown
 
 tracking_id: UA-99337029-1
