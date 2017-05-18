@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: nicolo.dalvit@sciencespo.fr
 
-* Phone:
+* Phone: NN
 
 ---
 
