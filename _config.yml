@@ -8,6 +8,9 @@ markdown: kramdown
 
 tracking_id: UA-99337029-1
 
+gems:
+  - jekyll-seo-tag
+
 sass:
     style: compressed
     sass_dir: _sass
