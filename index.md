@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="pipo.jpg">
 
-I am a Phd candidate at the Department of Economics at Sciences Po, Paris where I am writing my thesis under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
+I am a Phd candidate at the Department of Economics at Sciences Po, Paris. I am writing my thesis under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
 
 My research interests are labor economics and applied econometrics.
 
