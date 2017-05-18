@@ -10,6 +10,7 @@ tracking_id: UA-99337029-1
 
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 sass:
     style: compressed
