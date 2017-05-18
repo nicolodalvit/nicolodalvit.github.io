@@ -22,7 +22,7 @@ You can download my [CV from here](CV.pdf).
 
 ### Working Papers
 
-1. <center> "How Social Networks Shape Our Beliefs: A Natural Experiment among Future French Politicians", (2015), with Yann Algan, Quoc-Anh Do, Alexis Le Chapelain, and Yves Zenou. [link](Network.pdf). <center>
+1. <center> "How Social Networks Shape Our Beliefs: A Natural Experiment among Future French Politicians", (2015), with Yann Algan, Quoc-Anh Do, Alexis Le Chapelain, and Yves Zenou. [link](Network.pdf). </center>
 
 &nbsp;
 
