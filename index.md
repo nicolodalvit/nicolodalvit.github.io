@@ -10,6 +10,10 @@ WORK IN PROGRESS.
 
 I am a Phd candidate at the Department of Economics at Sciences Po, Paris where I am writing my thesis under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
 
+My research interests are labor economics and applied econometrics.
+
+You can download my [CV here](CV.pdf)
+
 &nbsp;
 
 ## Research
@@ -32,4 +36,6 @@ Year | Position | Course
 2014; 2016; 2017 | Corrector | Macroeconomics of Development, Sciences Po (PSIA)
 2015 | Corrector  | Econometrics: Evaluation of Public Policies, Sciences Po
 
-Here is a horizontal rule
+&nbsp;
+&nbsp;
+&nbsp;
