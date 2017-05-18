@@ -6,13 +6,11 @@ layout: default
 
 <img class="profile-picture" src="pipo.jpg">
 
-WORK IN PROGRESS.
-
 I am a Phd candidate at the Department of Economics at Sciences Po, Paris where I am writing my thesis under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
 
 My research interests are labor economics and applied econometrics.
 
-You can download my [CV here](CV.pdf)
+You can download my [CV from here](CV.pdf).
 
 &nbsp;
 
