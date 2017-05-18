@@ -21,9 +21,14 @@ I am a Phd candidate at the Department of Economics at Sciences Po, Paris where 
 1. "How Social Networks Shape Our Beliefs: A Natural Experiment among Future French Politicians", (2015), with Yann Algan, Quoc-Anh Do, Alexis Le Chapelain, and Yves Zenou. [link](Network.pdf).
 
 
+
+
+
+
+
 ## Teaching
 
-Year | Position | Category
+Year | Position | Course
 -----|-------|--------
 2015; 2016 | TA | Graduate Econometrics 1, Sciences Po
 2014; 2016; 2017 | Corrector | Macroeconomics of Development, Sciences Po (PSIA)
