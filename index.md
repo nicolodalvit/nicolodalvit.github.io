@@ -12,12 +12,13 @@ I am a Phd candidate at the Department of Economics at Sciences Po, Paris where 
 
 ## Research
 
+### Work in Progress
 
+1. "The Employment and Wage Effect Of Labor Tax Reforms", with Juien Pascal.
 
-## Publications
+### Working Papers
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. "How Social Networks Shape Our Beliefs: A Natural Experiment among Future French Politicians", (2015), with Yann Algan, Quoc-Anh Do, Alexis Le Chapelain, and Yves Zenou.
 
 ## Typography
 
