@@ -8,7 +8,7 @@ layout: default
 
 WORK IN PROGRESS.
 
-I am a Phd candidate at the Department of Economics at Sciences Po, Paris where I am writing my thesis under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/)
+I am a Phd candidate at the Department of Economics at Sciences Po, Paris where I am writing my thesis under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
 
 ## Research
 
@@ -18,7 +18,7 @@ I am a Phd candidate at the Department of Economics at Sciences Po, Paris where 
 
 ### Working Papers
 
-1. "How Social Networks Shape Our Beliefs: A Natural Experiment among Future French Politicians", (2015), with Yann Algan, Quoc-Anh Do, Alexis Le Chapelain, and Yves Zenou.
+1. "How Social Networks Shape Our Beliefs: A Natural Experiment among Future French Politicians", (2015), with Yann Algan, Quoc-Anh Do, Alexis Le Chapelain, and Yves Zenou. [link](Network.pdf).
 
 ## Typography
 
