@@ -5,12 +5,12 @@ is_contact: true
 
 * Email: nicolo.dalvit@sciencespo.fr
 
-* Phone: NN
-
 ---
 
-## Mailing Address
+### Department Address
 
-28 Rue des Saintes Peres,
+Sciences Po - Département d'économie,
 
-75007, Paris
+28 Rue des Saints-Pères,
+
+75007, Paris, France

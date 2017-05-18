@@ -20,17 +20,14 @@ I am a Phd candidate at the Department of Economics at Sciences Po, Paris where 
 
 1. "How Social Networks Shape Our Beliefs: A Natural Experiment among Future French Politicians", (2015), with Yann Algan, Quoc-Anh Do, Alexis Le Chapelain, and Yves Zenou. [link](Network.pdf).
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Teaching
 
-Here is a table
-
-Year | Award | Category
+Year | Position | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2015; 2016 | TA | Graduate Econometrics 1, Sciences Po
+2014; 2016; 2017 | Corrector | Macroeconomics of Development, Sciences Po (PSIA)
+2015 | Corrector  | Econometrics: Evaluation of Public Policies, Sciences Po
 
 Here is a horizontal rule
 
