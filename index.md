@@ -31,8 +31,8 @@ You can download my [CV from here](CV.pdf).
 Year | Position | Course | Institution
 -----|-------|--------
 2015; 2016 | TA | Graduate Econometrics 1 | Sciences Po
-2014; 2016; 2017 | Corrector | Macroeconomics of Development |  Sciences Po (PSIA)
-2015 | Corrector  | Econometrics: Evaluation of Public Policies | Sciences Po
+2014; 2016; 2017 | TA | Macroeconomics of Development |  Sciences Po (PSIA)
+2015 | TA  | Econometrics: Evaluation of Public Policies | Sciences Po
 
 &nbsp;
 &nbsp;
