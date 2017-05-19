@@ -2,6 +2,7 @@
 layout: default
 ---
 
+## About Me
 
 <img class="profile-picture" src="pipo.jpg">
 
