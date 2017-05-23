@@ -18,7 +18,7 @@ You can download my [CV from here](CV.pdf).
 
 ### Work in Progress
 
-1. "The Employment and Wage Effect Of Labor Tax Reforms", with Juien Pascal.
+1. "The Employment and Wage Effect Of Labor Tax Reforms", with Julien Pascal.
 
 ### Working Papers
 
