@@ -8,7 +8,7 @@ layout: default
 
 I am a Phd candidate at the Department of Economics at Sciences Po, Paris. I am currently writing my thesis under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
 
-My research interests are labor economics and applied econometrics. 
+My research interests are labor economics and applied econometrics.
 
 You can download my [CV from here](CV.pdf).
 
@@ -18,7 +18,7 @@ You can download my [CV from here](CV.pdf).
 
 ### Work in Progress
 
-1. "The Employment and Wage Effect Of Labor Tax Reforms", with Julien Pascal.
+1. "The Employment and Wage Effect Of Labor Tax Reforms", with [Julien Pascal](http://www.sciencespo.fr/liepp/en/user/547).
 
 ### Working Papers
 
