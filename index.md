@@ -18,7 +18,7 @@ You can download my [CV from here](CV.pdf).
 
 ### Work in Progress
 
-1. "The Employment and Wage Effect Of Labor Tax Reforms", with [Julien Pascal](https://julienpascal.github.io/).
+1. "Labor Tax in a Dynamic Search-and-Matching Model", with [Julien Pascal](https://julienpascal.github.io/).
 
 ### Working Papers
 
