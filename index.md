@@ -19,7 +19,7 @@ You can download my [CV from here](CV.pdf).
 ### Work in Progress
 
 1. "Labor Taxation in a Dynamic Search-and-Matching Model", with [Julien Pascal](https://julienpascal.github.io/).
-2. "Intra-firm hierarchies and gender gaps", with Aseem Patel and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research).
+2. "Intra-Firm Hierarchies and Gender Gaps", with Aseem Patel and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research).
 
 ### Working Papers
 
