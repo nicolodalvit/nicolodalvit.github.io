@@ -18,7 +18,7 @@ You can download my [CV from here](CV.pdf).
 
 ### Work in Progress
 
-1. "Labor Taxation and Income Risk over the Cycle: a Dynamic Search-and-Matching Approach", with [Julien Pascal](https://julienpascal.github.io/).
+1. "Labor Taxation and Income Risk over the Cycle: a Dynamic Search-and-Matching Approach", with [Julien Pascal](https://julienpascal.github.io/) - (Working paper coming soon).
 2. "Intra-Firm Hierarchies and Gender Gaps", with Aseem Patel and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research).
 
 ### Working Papers
