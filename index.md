@@ -18,7 +18,7 @@ You can download my [CV from here](CV.pdf).
 
 ### Work in Progress
 
-1. "**The Dynamics of Wages and Labour Flows**".
+1. "**Firm Dynamics and individual Earnings: Evidence from French Data**".
 
 2. "**Labor Taxation and Income Shocks over the Cycle**", with [Julien Pascal](https://julienpascal.github.io/) - (Working paper coming soon).
 
