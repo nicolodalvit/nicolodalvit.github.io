@@ -25,7 +25,7 @@ You can download my [CV from here](CV.pdf).
     <p align="justify"> <i>Abstract</i>:
     We develop a theoretical framework to evaluate the contribution of different payroll tax schedules to the cyclical behavior of the distribution of individual income shocks along the business cycle. We build a dynamic search-and-matching model of the labor market featuring heterogeneous workers, aggregate and idiosyncratic shocks and a non-linear payroll tax schedule. We solve the model using perturbation techniques developed in Reiter (2009). We estimate the model on Italian administrative data for the period 1980-2012 and use our estimated framework to quantitatively evaluate how different payroll tax schedules can alter the cyclicality of income risk for different types of workers.</p>
 
-3. "**Intra-Firm Hierarchies and Gender Gaps**", with Aseem Patel and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research).
+3. "**Intra-Firm Hierarchies and Gender Gaps**", with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research).
 
 ### Working Papers
 
