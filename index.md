@@ -8,7 +8,7 @@ layout: default
 
 I am a Phd candidate at the Department of Economics at Sciences Po, Paris. I am currently writing my thesis under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
 
-My research interests are labor economics, the role of firms in the labor market and the evaluation of public policies.
+My research interests are labor economics, firm dynamics and the evaluation of public policies.
 
 You can download my [CV from here](CV.pdf).
 
