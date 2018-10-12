@@ -27,6 +27,10 @@ You can download my [CV from here](CV.pdf).
 
 3. "**Intra-Firm Hierarchies and Gender Gaps**", with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research).
 
+    <p align="justify"> <i>Abstract</i>:
+    Within-firm factors are known to play a major role in wage inequality. This paper documents the role of hierarchies in gender wage and employment gaps using administrative French data. First, we document the extent and evolution of gender wage gaps across pre-defined layers of hierarchy within firms over time. We find that gender wage and representation gaps are larger in upper layers of hierarchy, even as they narrow over time. Second, we exploit a policy on corporate board quotas in France to study the impact of an increase in female leadership on gender wage and employment outcomes within firms. We find that a rise in the share of women on corporate boards narrows the gender wage gap only for top layers of hierarchy, but not for lower layers. We also observe that greater female corporate board membership increases the share of women working part-time in lower layers of hierarchy, at the expense of full-time work. The opposite effect holds for upper layers. The results suggest that, at least in the short term, female corporate board members improve the relative wages of women in close hierarchical proximity. They may also be able to affect change on flexi-work culture for the firm as a whole. However, due to the nonlinear returns to hours worked for upper layer professions, only lower layer women shift into part-time work.</p>
+
+
 ### Working Papers
 
 1. "**Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians**", (2015), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). 2nd draft coming soon.
