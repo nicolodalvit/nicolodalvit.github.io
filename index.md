@@ -30,7 +30,7 @@ You can download my [CV from here](CV.pdf).
 
 ### Working Papers
 
-1. "**Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians**", (2015), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). 2nd draft coming soon.
+1. "**Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians**", (2015), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network.pdf).
 
 &nbsp;
 
