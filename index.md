@@ -39,7 +39,7 @@ You can download my [CV from here](CV.pdf).
 Year | Position | Course | Institution
 -----|-------|--------
 2015; 2016; 2017; 2018 | TA | Graduate Econometrics 1 | Sciences Po
-2018 | TA | Introduction to Econometrics | Sciences Po
+2018; 2019 | TA | [Introduction to Econometrics](https://scpoecon.github.io/ScPoEconometrics/) | Sciences Po
 2015; 2016; 2017 | TA | Macroeconomics of Development |  Sciences Po (PSIA)
 2015 | TA  | Econometrics: Evaluation of Public Policies | Sciences Po
 
