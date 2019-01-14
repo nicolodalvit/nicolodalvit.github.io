@@ -35,6 +35,21 @@ You can download my [CV from here](CV.pdf).
 
 1. "**Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians**", (2018), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network.pdf).
 
+<details><summary> <i>Abstract</i> </summary>
+<p align="justify">
+    We study how friendship shapes students’ political opinions in a natural experiment. We use the indicator whether two students were exogenously assigned to a
+    short-term “integration group”, unrelated to scholar activities and dissolved before
+    the school year, as instrumental variable for their friendship, to estimate the effect
+    of friendship on pairwise political opinion outcomes in dyadic regressions. After
+    six months, friendship causes a reduction of differences in opinions by one quarter
+    of the mean difference. It likely works through a homophily-enforced mechanism,
+    by which friendship causes politically-similar students to join political associations
+    together, which reinforces their political similarity. The effect is strong among initially similar pairs, but absent in dissimilar pairs. Friendship affects opinion gaps
+    by reducing divergence, therefore polarization and extremism, without forcing individuals’ views to converge. Network characteristics also matter to the friendship
+effect.
+</p>
+</details>
+
 &nbsp;
 
 ## Teaching
