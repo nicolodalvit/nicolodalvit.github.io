@@ -24,12 +24,17 @@ You can download my [CV from here](CV.pdf).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-     We develop a theoretical framework to evaluate the contribution of different payroll tax schedules to the cyclical behavior of the distribution of individual income shocks along the business cycle. We build a dynamic search-and-matching model of the labor market featuring heterogeneous workers, aggregate and idiosyncratic shocks and a non-linear payroll tax schedule. We solve the model using perturbation techniques developed in Reiter (2009). We estimate the model on Italian administrative data for the period 1980-2012 and use our estimated framework to quantitatively evaluate how different payroll tax schedules can alter the cyclicality of income risk for different types of workers.
+     We develop a theoretical framework to evaluate the contribution of different payroll tax schedules to the cyclical behavior of the distribution of individual income shocks along the business cycle. We build a dynamic search-and-matching model of the labor market featuring heterogeneous workers, aggregate and idiosyncratic shocks and a non-linear payroll tax schedule. We solve the model using perturbation techniques developed in Reiter (2009). We estimate the model on Italian administrative data for the period 1980-2012 and use our estimated framework to quantitatively evaluate how different      payroll tax schedules can alter the cyclicality of income risk for different types of workers.
     </p>
     </details>
 
 3. "**Intra-Firm Hierarchies and Gender Gaps**", with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research).
 
+<details><summary> <i>Abstract</i> </summary>
+<p align="justify">
+    Does increased female leadership decrease gender wage gaps within firms? We answer this question exploiting the variation in board membership gender composition induced by a recent French reform. Preliminary evidence shows significance effects on wage and promotion gaps for the higher layers of a firm’s hierarchy. In contrast, we find no effect when looking at aggregate firm-level outcomes. 
+</p>
+</details>
 
 ### Working Papers
 
