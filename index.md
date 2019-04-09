@@ -20,7 +20,7 @@ You can download my [CV from here](CV.pdf).
 
 1. "**Firms, Workers and the Dynamics of Earnings: Evidence from French Data.**".
 
-2. "**Labor Tax Progressivity and Cyclical Income Risk**", with [Julien Pascal](https://julienpascal.github.io/) - Working paper coming soon ([Poster](poster_sam_2018_Dalvit_Pascal.pdf)).
+2. "**ncome Tax Progressivity as anAutomatic Stabylizer of the Labour Market**", with [Julien Pascal](https://julienpascal.github.io/) - Working paper coming soon ([Poster](poster_sam_2018_Dalvit_Pascal.pdf)).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
