@@ -18,7 +18,7 @@ You can download my [CV from here](CV.pdf).
 
 ### Work in Progress
 
-1. "**Firms, Workers and the Dynamics of Earnings: Evidence from French Data.**".
+1. "**When the Market Goes Down: Aggregate Uncertainty and Micro-Dynamics.**".
 
 2. "**Income Tax Progressivity as an Automatic Stabilizer of the Labour Market**", with [Julien Pascal](https://julienpascal.github.io/) - Working paper coming soon ([Poster](poster_sam_2018_Dalvit_Pascal.pdf)).
 
