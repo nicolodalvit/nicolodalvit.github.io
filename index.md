@@ -20,7 +20,7 @@ You can download my [CV from here](CV.pdf).
 
 1. "**When the Market Goes Down: Aggregate Uncertainty and Micro-Dynamics.**".
 
-2. "**Income Tax Progressivity as an Automatic Stabilizer of the Labour Market**", with [Julien Pascal](https://julienpascal.github.io/) - Working paper coming soon ([Poster](poster_sam_2018_Dalvit_Pascal.pdf)).
+2. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**", with [Julien Pascal](https://julienpascal.github.io/) - Working paper coming soon ([Poster](poster_sam_2018_Dalvit_Pascal.pdf)).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
