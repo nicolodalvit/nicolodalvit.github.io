@@ -30,11 +30,11 @@ You can download my [CV from here](CV.pdf).
 
 3. "**Intra-Firm Hierarchies and Gender Gaps**", with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research).
 
-    <details><summary> <i>Abstract</i> </summary>
+    <!-- <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
         Does increased female leadership decrease gender wage gaps within firms? We answer this question exploiting the variation in board membership gender composition induced by a recent French reform. Preliminary evidence shows significance effects on wage and promotion gaps for the higher layers of a firm’s hierarchy. In contrast, we find no effect when looking at aggregate firm-level outcomes.
     </p>
-    </details>
+    </details> -->
 
 4. "**Benchmarking Markups**", with [Flavien Moreau](https://www.flavienmoreau.com/) and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)    
 
