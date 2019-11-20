@@ -16,7 +16,7 @@ You can download my [CV from here](CV.pdf).
 
 ## Research
 
-### Work in Progress
+### Research Papers
 
 1. "**When the Market Goes Down: Aggregate Uncertainty and Micro-Dynamics.**".
 
@@ -30,11 +30,7 @@ You can download my [CV from here](CV.pdf).
 
 3. "**Intra-Firm Hierarchies and Gender Gaps**", with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research).
 
-4. "**Benchmarking Markups**", with [Flavien Moreau](https://www.flavienmoreau.com/) and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)    
-
-### Working Papers
-
-1. "**Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians**", (2019), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_4th_draft_31_05_2019.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)].
+4. "**Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians**", (2019), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_4th_draft_31_05_2019.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)].
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -50,6 +46,11 @@ You can download my [CV from here](CV.pdf).
     effect.
     </p>
     </details>
+
+
+### Work in Progress
+
+1. "**Benchmarking Markups**", with [Flavien Moreau](https://www.flavienmoreau.com/) and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)   
 
 &nbsp;
 
