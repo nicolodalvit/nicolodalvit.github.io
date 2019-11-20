@@ -18,7 +18,7 @@ You can download my [CV from here](CV.pdf).
 
 ### Research Papers
 
-1. "**When the Market Goes Down: Aggregate Uncertainty and Micro-Dynamics.**".
+1. "**When the Market Goes Down: Aggregate Uncertainty and the Micro-Dynamics of Firms.**".
 
 2. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**", with [Julien Pascal](https://julienpascal.github.io/) - 2nd draft coming soon ([Poster](poster_sam_2018_Dalvit_Pascal.pdf)).
 
