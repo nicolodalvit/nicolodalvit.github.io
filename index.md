@@ -20,29 +20,38 @@ You can download my [CV from here](CV.pdf).
 
 1. "**When the Market Goes Down: Aggregate Uncertainty and the Micro-Dynamics of Firms.**".
 
+    <details><summary> <i>Abstract</i> </summary>
+    <p align="justify">
+    Using French firm-level micro-data, I find evidence that firms with low expected growth are more sensitive to aggregate shocks. I interpret these findings using a frictional model offirm growth. The estimated model suggests that this heterogeneous sensitivity can have important consequences for the elasticity of aggregate net job creation to the aggregate state.
+    </p>
+    </details>
+
 2. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**", with [Julien Pascal](https://julienpascal.github.io/) - 2nd draft coming soon ([Poster](poster_sam_2018_Dalvit_Pascal.pdf)).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-     We develop a theoretical framework to evaluate the contribution of different payroll tax schedules to the cyclical behavior of the distribution of individual income shocks along the business cycle. We build a dynamic search-and-matching model of the labor market featuring heterogeneous workers, aggregate and idiosyncratic shocks and a non-linear payroll tax schedule. We solve the model using perturbation techniques developed in Reiter (2009). We estimate the model on Italian administrative data for the period 1980-2012 and use our estimated framework to quantitatively evaluate how different payroll tax schedules can alter the cyclicality of income risk for different types of workers.
+    We show that decreasing income tax progressivity causes an increase in the overall volatility of income in the economy. Our estimated search-and-matching model of the labour market is able to
+    reproduce several stylized facts on the cyclical behaviour of income risk.
     </p>
     </details>
 
 3. "**Intra-Firm Hierarchies and Gender Gaps**", with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - 2nd draft coming soon.
 
+    <details><summary> <i>Abstract</i> </summary>
+    <p align="justify">
+    Does increased female leadership decrease gender wage gaps within firms? Exploiting a recent French
+    reform on board membership composition we find a statistically significant effect only at the very
+    top of the organisation.
+    </p>
+    </details>
+
 4. "**Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians**", (2019), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_4th_draft_31_05_2019.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)].
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-        We study how friendship shapes students’ political opinions in a natural experiment. We use the indicator whether two students were exogenously assigned to a
-        short-term “integration group”, unrelated to scholar activities and dissolved before
-        the school year, as instrumental variable for their friendship, to estimate the effect
-        of friendship on pairwise political opinion outcomes in dyadic regressions. After
-        six months, friendship causes a reduction of differences in opinions by one quarter
-        of the mean difference. It likely works through a homophily-enforced mechanism,
-        by which friendship causes politically-similar students to join political associations
-        together, which reinforces their political similarity. The effect is strong among initially similar pairs, but absent in dissimilar pairs. Friendship affects opinion gaps
-        by reducing divergence, therefore polarization and extremism, without forcing individuals’ views to converge. Network characteristics also matter to the friendship
+    This paper shows how friendship shapes beliefs and political opinion. We make use of a unique
+    natural experiment that randomly assigns new freshmen into groups in a college that produces most
+    of France’s top politicians. We find strong, robust effects of friendship on differences in beliefs.
     effect.
     </p>
     </details>
