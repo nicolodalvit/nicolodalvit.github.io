@@ -22,7 +22,7 @@ You can download my [CV from here](CV.pdf).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-    Using French firm-level micro-data, I find evidence that firms with low expected growth are more sensitive to aggregate shocks. I interpret these findings using a frictional model offirm growth. The estimated model suggests that this heterogeneous sensitivity can have important consequences for the elasticity of aggregate net job creation to the aggregate state.
+    Using French firm-level micro-data, I find evidence that firms with low expected growth are more sensitive to aggregate shocks. I interpret these findings using a frictional model offirm growth. The estimated model suggests that this heterogeneous sensitivity can have important consequences for the elasticity of aggregate net job creation to the aggregate state.
     </p>
     </details>
 
@@ -52,7 +52,6 @@ You can download my [CV from here](CV.pdf).
     This paper shows how friendship shapes beliefs and political opinion. We make use of a unique
     natural experiment that randomly assigns new freshmen into groups in a college that produces most
     of France’s top politicians. We find strong, robust effects of friendship on differences in beliefs.
-    effect.
     </p>
     </details>
 
