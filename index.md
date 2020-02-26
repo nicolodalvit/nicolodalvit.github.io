@@ -18,7 +18,7 @@ You can download my [CV from here](CV.pdf).
 
 ### Research Papers
 
-1. "**Aggregate Uncertainty and the Micro-Dynamics of Firms.**".
+1. "**Aggregate Uncertainty and the Micro-Dynamics of Firms.**" - Updating draft.
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
