@@ -18,7 +18,7 @@ You can download my [CV from here](CV.pdf).
 
 ### Research Papers
 
-1. "**Aggregate Uncertainty and the Micro-Dynamics of Firms.**" - Updating draft.
+1. "**Aggregate Uncertainty and the Micro-Dynamics of Firms.**" - Draft available upon request.
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -26,7 +26,7 @@ You can download my [CV from here](CV.pdf).
     </p>
     </details>
 
-2. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**", with [Julien Pascal](https://julienpascal.github.io/) - 2nd draft coming soon ([Poster](poster_sam_2018_Dalvit_Pascal.pdf)).
+2. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**", with [Julien Pascal](https://julienpascal.github.io/) - 2nd draft coming soon.
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -66,6 +66,7 @@ You can download my [CV from here](CV.pdf).
 
 Year | Position | Course | Institution
 -----|-------|--------
+2019 | TA | Labour Economics | Sciences Po
 2015; 2016; 2017; 2018 | TA | Graduate Econometrics 1 | Sciences Po
 2018; 2019 | Lecturer | [Introduction to Econometrics](https://scpoecon.github.io/ScPoEconometrics/) | Sciences Po
 2015; 2016; 2017 | TA | Macroeconomics of Development |  Sciences Po (PSIA)
