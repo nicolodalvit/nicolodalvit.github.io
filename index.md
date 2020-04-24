@@ -26,7 +26,7 @@ You can download my [CV from here](CV.pdf).
     </p>
     </details>
 
-2. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**", with [Julien Pascal](https://julienpascal.github.io/) - 2nd draft coming soon.
+2. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**", with [Julien Pascal](https://julienpascal.github.io/) - Draft available upon request.
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
