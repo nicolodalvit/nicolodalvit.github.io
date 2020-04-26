@@ -35,7 +35,7 @@ You can download my [CV from here](CV.pdf).
     </p>
     </details>
 
-3. "**Intra-Firm Hierarchies and Gender Gaps**", with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - 2nd draft coming soon.
+3. "**Intra-Firm Hierarchies and Gender Gaps**", with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - Draft available upon request.
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
