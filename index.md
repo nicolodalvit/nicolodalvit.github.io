@@ -22,7 +22,7 @@ You can download my [CV from here](CV.pdf).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-    Using French firm-level micro-data, I find evidence that firms with low expected growth are more sensitive to aggregate shocks. I interpret these findings using a frictional model offirm growth. The estimated model suggests that this heterogeneous sensitivity can have important consequences for the elasticity of aggregate net job creation to the aggregate state.
+    Using firm level micro-data, I find evidence that firms with lower growth prospects are more sensitive to aggregate shocks. I interpret these findings using a model of demand accumulation and endogenous entry and exit decisions, which I then estimate on French data. The resulting cyclical dynamics of firms provide an explanation for the observed counter-cyclical dispersion in firms' growth rates. The results in this paper caution against the use of realised dispersion in firm growth rates as a proxy for time-varying uncertainty. The estimated negative correlation between a firm's sensitivity to aggregate shocks and its expected future growth rate is shown to have important consequences for the cyclical characteristics of entering and exiting firms. The quantitative model suggests that this compositional effect is sizeable and equivalent to around $10.5\%$ of the drop in aggregate employment between 2008 and 2009.
     </p>
     </details>
 
