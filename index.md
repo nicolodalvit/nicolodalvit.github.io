@@ -30,8 +30,12 @@ You can download my [CV from here](CV.pdf).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-    We show that decreasing income tax progressivity causes an increase in the overall volatility of income in the economy. Our estimated search-and-matching model of the labour market is able to
-    reproduce several stylized facts on the cyclical behaviour of income risk.
+    In this article we use Italian administrative data to study the role that a progressive
+    income tax can play in redistributing cyclical risk from low to high wage workers and
+    reduce the volatility of aggregate employment. We do this by developing and estimating a frictional model of the labor market with heterogeneous workers, aggregate
+    shocks and a non-linear tax schedule. Our results show that eliminating income tax
+    progressivity in Italy while maintaining the tax revenue fixed would come at the expense of the majority of workers. The current system of marginal tax rates is effective
+    at reallocating cyclical income risk from low to high wage workers and reduces aggregate employment volatility by 18.5% compared to a counter-factual flat rate system.
     </p>
     </details>
 
