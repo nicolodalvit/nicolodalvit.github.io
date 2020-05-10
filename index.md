@@ -12,6 +12,7 @@ I am a labor and macro economist with research interests in firm dynamics, labor
 
 You can download my [CV from here](CV.pdf).
 
+I will be joining the World Bank in September 2020.
 
 &nbsp;
 
