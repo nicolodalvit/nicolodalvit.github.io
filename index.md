@@ -6,13 +6,14 @@ layout: default
 
 <img class="profile-picture" src="pipo.jpg">
 
-I am a Phd candidate at the Department of Economics at Sciences Po, Paris. I am currently writing my thesis under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
+I am a labor and macro economist with research interests in firm dynamics and labor economics.
 
-I am a labor and macro economist with research interests in firm dynamics, labor economics and the evaluation of public policies.
+I obtained my PhD in Economics from Sciences Po under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
+
+I will be joining the World Bank in September 2020.
 
 You can download my [CV from here](CV.pdf).
 
-I will be joining the World Bank in September 2020.
 
 &nbsp;
 
