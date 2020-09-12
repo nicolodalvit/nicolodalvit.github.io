@@ -6,14 +6,15 @@ layout: default
 
 <img class="profile-picture" src="logo.jpg">
 
-I am a labor and macro economist with research interests in firm dynamics and labor economics.
+I am an Economist at the World Bank.
 
 I obtained my PhD in Economics from Sciences Po under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
 
-I will be joining the World Bank in September 2020.
+I am a labor and macro economist with research interests in firm dynamics and labor economics.
 
 You can download my [CV from here](CV.pdf).
 
+Disclaimer: the views expressed here are my own and do not necessarily reflect those of the institutions I am affiliated with.
 
 &nbsp;
 
