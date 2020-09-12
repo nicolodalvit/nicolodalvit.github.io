@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="logo.jpg">
 
-I am an Economist at the [World Bank](https://www.worldbank.org/).
+I am an economist at the [World Bank](https://www.worldbank.org/).
 
 I obtained my PhD in Economics from [Sciences Po](https://www.sciencespo.fr/department-economics/en) under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
 
