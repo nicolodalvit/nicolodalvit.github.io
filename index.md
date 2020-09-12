@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="social-share.jpg">
+<img class="profile-picture" src="world-bank-logo.jpg">
 
 I am a labor and macro economist with research interests in firm dynamics and labor economics.
 
