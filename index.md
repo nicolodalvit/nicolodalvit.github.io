@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="logo.jpg">
 
-I am an Economist at the World Bank.
+I am an Economist at the [World Bank](https://www.worldbank.org/).
 
-I obtained my PhD in Economics from Sciences Po under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
+I obtained my PhD in Economics from [Sciences Po](https://www.sciencespo.fr/department-economics/en) under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
 
 I am a labor and macro economist with research interests in firm dynamics and labor economics.
 
