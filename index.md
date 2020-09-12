@@ -64,9 +64,9 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
     </details>
 
 
-### Work in Progress
+<!--- ### Work in Progress
 
-1. "**Benchmarking Markups**", with [Flavien Moreau](https://www.flavienmoreau.com/) and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)   
+1. "**Benchmarking Markups**", with [Flavien Moreau](https://www.flavienmoreau.com/) and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)   -->
 
 &nbsp;
 
