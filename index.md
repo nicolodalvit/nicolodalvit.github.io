@@ -14,7 +14,7 @@ I am a labor and macro economist with research interests in firm dynamics and la
 
 You can download my [CV from here](CV.pdf).
 
-Disclaimer: the views expressed here are my own and do not necessarily reflect those of the institutions I am affiliated with.
+The views expressed here are my own and do not necessarily reflect those of my employer.
 
 &nbsp;
 
