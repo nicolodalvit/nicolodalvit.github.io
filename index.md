@@ -12,7 +12,7 @@ I obtained my PhD in Economics from [Sciences Po](https://www.sciencespo.fr/depa
 
 I am a labor and macro economist with research interests in firm dynamics and labor economics.
 
-You can download my [CV from here](CV.pdf).
+You can download my [CV from here](CV_Dalvit.pdf).
 
 The views expressed here are my own and do not necessarily reflect those of my employer.
 
