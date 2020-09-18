@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="logo.jpg">
+[comment]: <>  (<img class="profile-picture" src="logo.jpg">)
 
 I am an economist at the [World Bank](https://www.worldbank.org/).
 
