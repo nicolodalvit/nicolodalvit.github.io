@@ -43,7 +43,7 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
     </p>
     </details>
 
-3. "**Intra-Firm Hierarchies and Gender Gaps**", with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - Draft available upon request.
+3. "**Intra-Firm Hierarchies and Gender Gaps**", with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
