@@ -47,9 +47,17 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-    Does increased female leadership decrease gender wage gaps within firms? Exploiting a recent French
-    reform on board membership composition we find a statistically significant effect only at the very
-    top of the organisation.
+    We study how changes in female representation at the top of a firm’s organisation
+    affect gender-specific outcomes across hierarchies within firms. We start by developing
+    a theoretical model of a hierarchical firms, where gender representation in top
+    organisational layers can affect gender-specific hiring and promotion probabilities at
+    lower layers. We then exploit a recent French reform that imposed gender representation
+    quotas in the boards of directors and test the model’s predictions in the data.
+    Our empirical results show that the reform was successful in reducing gender wage
+    and representation gaps at the upper layers of the firm, but not at lower firm layers.
+    A Panel VAR analysis confirms that the trickle-down effect of this policy was limited
+    and suggests that interventions targeting the managerial layer, rather than the board,
+    might have a more generalised effect across the firm.
     </p>
     </details>
 
