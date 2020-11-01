@@ -30,7 +30,7 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
     </p>
     </details>
 
-2. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**", with [Julien Pascal](https://julienpascal.github.io/) - Draft available upon request.
+2. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**", with [Julien Pascal](https://julienpascal.github.io/) - [Click here](Paper_Taxation.pdf).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
