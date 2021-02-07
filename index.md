@@ -30,7 +30,25 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
     </p>
     </details>
 
-2. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**" (2020), with [Julien Pascal](https://julienpascal.github.io/) - [Click here](Paper_Taxation.pdf).
+2. "**Intra-Firm Hierarchies and Gender Gaps**" (2020), with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701189)]. *R&R Labour Economics*
+
+        <details><summary> <i>Abstract</i> </summary>
+        <p align="justify">
+        We study how changes in female representation at the top of a firm’s organisation
+        affect gender-specific outcomes across hierarchies within firms. We start by developing
+        a theoretical model of a hierarchical firms, where gender representation in top
+        organisational layers can affect gender-specific hiring and promotion probabilities at
+        lower layers. We then exploit a recent French reform that imposed gender representation
+        quotas in the boards of directors and test the model’s predictions in the data.
+        Our empirical results show that the reform was successful in reducing gender wage
+        and representation gaps at the upper layers of the firm, but not at lower firm layers.
+        A Panel VAR analysis confirms that the trickle-down effect of this policy was limited
+        and suggests that interventions targeting the managerial layer, rather than the board,
+        might have a more generalised effect across the firm.
+        </p>
+        </details>
+
+3. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**" (2020), with [Julien Pascal](https://julienpascal.github.io/) - [Click here](Paper_Taxation.pdf).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -40,24 +58,6 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
     shocks and a non-linear tax schedule. Our results show that eliminating income tax
     progressivity in Italy while maintaining the tax revenue fixed would come at the expense of the majority of workers. The current system of marginal tax rates is effective
     at reallocating cyclical income risk from low to high wage workers and reduces aggregate employment volatility by 18.5% compared to a counter-factual flat rate system.
-    </p>
-    </details>
-
-3. "**Intra-Firm Hierarchies and Gender Gaps**" (2020), with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701189)]. *R&R Labour Economics*
-
-    <details><summary> <i>Abstract</i> </summary>
-    <p align="justify">
-    We study how changes in female representation at the top of a firm’s organisation
-    affect gender-specific outcomes across hierarchies within firms. We start by developing
-    a theoretical model of a hierarchical firms, where gender representation in top
-    organisational layers can affect gender-specific hiring and promotion probabilities at
-    lower layers. We then exploit a recent French reform that imposed gender representation
-    quotas in the boards of directors and test the model’s predictions in the data.
-    Our empirical results show that the reform was successful in reducing gender wage
-    and representation gaps at the upper layers of the firm, but not at lower firm layers.
-    A Panel VAR analysis confirms that the trickle-down effect of this policy was limited
-    and suggests that interventions targeting the managerial layer, rather than the board,
-    might have a more generalised effect across the firm.
     </p>
     </details>
 
