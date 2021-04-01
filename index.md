@@ -61,7 +61,7 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
     </p>
     </details>
 
-4. "**Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians**" (2020), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2020.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)]. *Submitted*
+4. "**Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians**" (2020), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2020.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)].
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
