@@ -22,7 +22,7 @@ You can download my [CV from here](CV_Dalvit.pdf).
 
 ### Publications
 
-1. "**_Intra-Firm Hierarchies and Gender Gaps_**" (2021), with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701189)]. *Forthcoming Labour Economics*
+1. "**Intra-Firm Hierarchies and Gender Gaps**" (2021), with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701189)]. *Forthcoming Labour Economics*
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -42,7 +42,7 @@ You can download my [CV from here](CV_Dalvit.pdf).
 
 ### Working Papers
 
-1. "**_Aggregate Uncertainty and the Micro-Dynamics of Firms_**" (2020). [Click here](Paper_Dynamics.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3591987)]
+1. "**Aggregate Uncertainty and the Micro-Dynamics of Firms**" (2020). [Click here](Paper_Dynamics.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3591987)]
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -50,7 +50,7 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
     </p>
     </details>
 
-2. "**_Income Tax Progressivity as a Stabilizer of Labor Income Risk_**" (2020), with [Julien Pascal](https://julienpascal.github.io/) - [Click here](Paper_Taxation.pdf).
+2. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**" (2020), with [Julien Pascal](https://julienpascal.github.io/) - [Click here](Paper_Taxation.pdf).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -63,7 +63,7 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
     </p>
     </details>
 
-3. "**_Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians_**" (2020), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2020.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)].
+3. "**Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians**" (2020), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2020.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)].
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
