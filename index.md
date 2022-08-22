@@ -22,7 +22,7 @@ You can download my [CV from here](CV_Dalvit.pdf).
 
 ### Publications
 
-1. "**Intra-Firm Hierarchies and Gender Gaps**" (2021), with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf). *Forthcoming Labour Economics*
+1. "**Intra-Firm Hierarchies and Gender Gaps**" (2021), with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf) [publishedversion](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000646#:~:text=Internal%20firm%20hierarchies%20play%20an%20important%20role%20in%20propagating%20gender%20gaps.&text=Changes%20in%20female%20representation%20at,differing%20impacts%20across%20firm%20hierarchies.&text=Statistically%20significant%20effects%20are%20found,top%20of%20the%20firm%20organization.). *Labour Economics*
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
