@@ -76,7 +76,17 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
 
 <!--- ### Work in Progress
 
+1. "The Effect of Technology Adoption on Workers' Outcomes: Evidence from Italy", with Manfredi Aliberti, Leonardo Iacovone, Fabiano Schivardi.
+
 1. "Micro-Dynamics of Firms and the Cyclicality of Job Flows" with Marco Palladino   -->
+
+&nbsp;
+
+### Selected Policy Work
+
+1. "**The Future of Work: Implications for Equity and Growth in Europe**" (2023), with Rafael de Hoyos, Leonardo Iacovone, Ioanna Pantelaiou, Aleksandra Peeva, [Ivan Torre](https://sites.google.com/site/ivantorre/). World Bank - Forthcoming.  
+
+
 
 &nbsp;
 
