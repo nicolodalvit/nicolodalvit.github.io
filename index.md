@@ -42,7 +42,7 @@ You can download my [CV from here](CV_Dalvit.pdf).
 
 ### Working Papers
 
-1. "Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians" (2023), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2023.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)]. ***R&R American Economic Review***
+1. "Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians" (2023), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2023.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)]. ***R&R*** at ***American Economic Review***
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
