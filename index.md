@@ -22,7 +22,7 @@ You can download my [CV from here](CV_Dalvit.pdf).
 
 ### Publications
 
-1. "Intra-Firm Hierarchies and Gender Gaps" (2021), with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf) - [Published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000646#:~:text=Internal%20firm%20hierarchies%20play%20an%20important%20role%20in%20propagating%20gender%20gaps.&text=Changes%20in%20female%20representation%20at,differing%20impacts%20across%20firm%20hierarchies.&text=Statistically%20significant%20effects%20are%20found,top%20of%20the%20firm%20organization.). ***Labour Economics***
+1. "Intra-Firm Hierarchies and Gender Gaps" (2022), with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf) - [Published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000646#:~:text=Internal%20firm%20hierarchies%20play%20an%20important%20role%20in%20propagating%20gender%20gaps.&text=Changes%20in%20female%20representation%20at,differing%20impacts%20across%20firm%20hierarchies.&text=Statistically%20significant%20effects%20are%20found,top%20of%20the%20firm%20organization.). ***Labour Economics***
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -42,7 +42,7 @@ You can download my [CV from here](CV_Dalvit.pdf).
 
 ### Working Papers
 
-1. "Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians" (2023), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2023.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)]. ***R&R*** at ***American Economic Review***
+1. "Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians" (2024), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2023.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)]. ***R&R*** at ***American Economic Review***
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -87,7 +87,7 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
 
 1. "The Effect of Technology Adoption on Workers' Outcomes: Evidence from Italy", with Manfredi Aliberti, Leonardo Iacovone, Fabiano Schivardi.
 
-1. "Micro-Dynamics of Firms and the Cyclicality of Job Flows" with Marco Palladino   -->
+1. "Micro-Dynamics of Firms and the Cyclicality of Job Flows" with Marco Palladino   
 
 &nbsp;
 
@@ -108,6 +108,8 @@ Year | Position | Course | Institution
 2018; 2019 | Lecturer | [Introduction to Econometrics](https://scpoecon.github.io/ScPoEconometrics/) | Sciences Po
 2015; 2016; 2017 | TA | Macroeconomics of Development |  Sciences Po (PSIA)
 2015 | TA  | Econometrics: Evaluation of Public Policies | Sciences Po
+
+-->
 
 &nbsp;
 &nbsp;
