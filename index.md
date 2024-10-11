@@ -10,7 +10,8 @@ I am an economist at the [World Bank](https://www.worldbank.org/).
 
 I obtained my PhD in Economics from [Sciences Po](https://www.sciencespo.fr/department-economics/en) under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
 
-I am a labor and macro economist with research interests in firm dynamics and labor economics.
+<!--- I am a labor and macro economist with research interests in firm dynamics and labor economics. -->
+
 
 You can download my [CV from here](CV_Dalvit.pdf).
 
