@@ -86,7 +86,7 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
 
 ### Other reasearch
 
-1. "The Impact of Technology Adoption on Firm Performance and Worker Composition" (2025), with [Manfredi Aliberti](https://sites.google.com/view/manfredialiberti/home-page), Stefano De Santis, Leonardo Iacovone, Silvia Lombardi, [Fabiano Schivardi](https://sites.google.com/view/fabianoschivardi/home).
+1. "The Impact of Technology Adoption on Firms Performance and Workers Composition" (2025), with [Manfredi Aliberti](https://sites.google.com/view/manfredialiberti/home-page), Stefano De Santis, Leonardo Iacovone, Silvia Lombardi, [Fabiano Schivardi](https://sites.google.com/view/fabianoschivardi/home).
 
 
 
