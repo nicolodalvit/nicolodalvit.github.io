@@ -84,6 +84,12 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
 
 
 
+### Other reasearch
+
+1. "The Impact of Technology Adoption on Firm Performance and Worker Composition", with Manfredi Aliberti, Stefano De Santis, Leonardo Iacovone, Silvia Lombardi, Fabiano Schivardi.
+
+
+
 <!--- ### Work in Progress
 
 1. "The Effect of Technology Adoption on Workers' Outcomes: Evidence from Italy", with Manfredi Aliberti, Leonardo Iacovone, Fabiano Schivardi.
