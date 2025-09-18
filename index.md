@@ -23,7 +23,25 @@ You can download my [CV from here](CV_Dalvit.pdf).
 
 ### Publications
 
-1. "Intra-Firm Hierarchies and Gender Gaps" (2022), with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf) - [Published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000646#:~:text=Internal%20firm%20hierarchies%20play%20an%20important%20role%20in%20propagating%20gender%20gaps.&text=Changes%20in%20female%20representation%20at,differing%20impacts%20across%20firm%20hierarchies.&text=Statistically%20significant%20effects%20are%20found,top%20of%20the%20firm%20organization.). ***Labour Economics***
+1. "Friendship Networks and Political Opinions" (2025), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), Alexis Le Chapelain, and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2025.pdf) [[CEPR](https://cepr.org/publications/dp20075)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)]. Conditionally accepted at ***American Economic Review***
+
+    <details><summary> <i>Abstract</i> </summary>
+    <p align="justify">
+    We study how social interaction and friendship shape students’ political opinions in a natural
+    experiment at Sciences Po, the cradle of top French politicians. Quasi-random assignments of
+    students into the same short-term integration groups before their scholar curriculum reduce
+    political opinion gap, and increase friendship formation. Using the pairwise indicator of same-
+    group membership as instrumental variable for friendship, we find that friendship causes a
+    reduction of differences in opinions by 40% of the standard deviation of opinion gap. The
+    evidence is consistent with a homophily-enforced mechanism, by which friendship causes initially
+    politically-similar students to join political associations together, which reinforces their political
+    similarity, without exercising an effect on initially politically-dissimilar pairs. Friendship affects
+    opinion gaps by reducing divergence, therefore polarization and extremism, without forcing
+    individuals’ views to converge. Network characteristics also matter to the friendship effect.
+    </p>
+    </details>
+
+2. "Intra-Firm Hierarchies and Gender Gaps" (2022), with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf) - [Published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000646#:~:text=Internal%20firm%20hierarchies%20play%20an%20important%20role%20in%20propagating%20gender%20gaps.&text=Changes%20in%20female%20representation%20at,differing%20impacts%20across%20firm%20hierarchies.&text=Statistically%20significant%20effects%20are%20found,top%20of%20the%20firm%20organization.). ***Labour Economics***
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -43,25 +61,8 @@ You can download my [CV from here](CV_Dalvit.pdf).
 
 ### Working Papers
 
-1. "Friendship Networks and Political Opinions" (2025), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), Alexis Le Chapelain, and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2025.pdf) [[CEPR](https://cepr.org/publications/dp20075)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)]. Conditionally accepted at ***American Economic Review***
 
-    <details><summary> <i>Abstract</i> </summary>
-    <p align="justify">
-    We study how social interaction and friendship shape students’ political opinions in a natural
-    experiment at Sciences Po, the cradle of top French politicians. Quasi-random assignments of
-    students into the same short-term integration groups before their scholar curriculum reduce
-    political opinion gap, and increase friendship formation. Using the pairwise indicator of same-
-    group membership as instrumental variable for friendship, we find that friendship causes a
-    reduction of differences in opinions by 40% of the standard deviation of opinion gap. The
-    evidence is consistent with a homophily-enforced mechanism, by which friendship causes initially
-    politically-similar students to join political associations together, which reinforces their political
-    similarity, without exercising an effect on initially politically-dissimilar pairs. Friendship affects
-    opinion gaps by reducing divergence, therefore polarization and extremism, without forcing
-    individuals’ views to converge. Network characteristics also matter to the friendship effect.
-    </p>
-    </details>
-
-2. "Aggregate Uncertainty and the Micro-Dynamics of Firms" (2021). [Click here](Paper_Dynamics.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3591987)]
+1. "Aggregate Uncertainty and the Micro-Dynamics of Firms" (2021). [Click here](Paper_Dynamics.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3591987)]
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -69,7 +70,7 @@ Using firm level micro-data, I find evidence that firms with lower growth prospe
     </p>
     </details>
 
-3. "Income Tax Progressivity as a Stabilizer of Labor Income Risk" (2020), with [Julien Pascal](https://julienpascal.github.io/) - [Click here](Paper_Taxation.pdf).
+2. "Income Tax Progressivity as a Stabilizer of Labor Income Risk" (2020), with [Julien Pascal](https://julienpascal.github.io/) - [Click here](Paper_Taxation.pdf).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
