@@ -23,7 +23,7 @@ You can download my [CV from here](CV_Dalvit.pdf).
 
 ### Publications
 
-1. "Friendship Networks and Political Opinions" (2025), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), Alexis Le Chapelain, and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2025.pdf) [[CEPR](https://cepr.org/publications/dp20075)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)]. Forthcoming at ***American Economic Review***
+1. "Friendship Networks and Political Opinions" (2025), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), Alexis Le Chapelain, and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2025.pdf) [[AER](https://www.aeaweb.org/articles?id=10.1257/aer.20231344&&from=f)] [[CEPR](https://cepr.org/publications/dp20075)]. Forthcoming at ***American Economic Review***
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
